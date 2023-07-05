@@ -1,6 +1,6 @@
 <div align="center"> <img src="https://github.com/EhabAshraf32/EhabAshraf32/blob/main/350(2).jpg"> </div>
 <h1 align="center">Hi 👋, I'm Ehab</h1>
-<h3 align="center">I'm Machine Learning Engineer</h3>
+<h3 align="center">I'm Machine Learning Engineer||Flutter Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehabashraf32&label=Profile%20views&color=0e75b6&style=flat" alt="ehabashraf32" /> </p>
 <h1 align="left">🎯 About Me</h1>
  HI! My name is Ehab i'm a machine learning engineer with a strong passion for AI and a focus on combining machine learning with NLP (Natural Language Processing), CNN (Convolutional Neural Networks), and deep learning models. You have studied AI at Benha University, which has provided you with a solid foundation in the field.
