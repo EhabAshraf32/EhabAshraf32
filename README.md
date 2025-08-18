@@ -2,8 +2,8 @@
 <h3 align="center">I'm AI & Machine Learning Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehabashraf32&label=Profile%20views&color=0e75b6&style=flat" alt="ehabashraf32" /> </p>
 <h1 align="left">🎯 About Me</h1>
-I’m an **AI & Machine Learning Engineer** with **3+ years of hands-on experience** designing, training, and deploying advanced ML models across **finance, NLP, and computer vision**.  
-I focus on transforming **complex datasets into actionable insights** and building **end-to-end intelligent systems** that make real-world impact. I hold a B.Sc. in Computers and Artificial Intelligence from Benha University (Ranked Top 10 in my department & college).
+I’m an AI & Machine Learning Engineer with 3+ years of hands-on experience designing, training, and deploying advanced ML models across finance, NLP, and computer vision.  
+I focus on transforming complex datasets into actionable insights and building end-to-end intelligent systems that make real-world impact. I hold a B.Sc. in Computers and Artificial Intelligence from Benha University (Ranked Top 10 in my department & college).
 
 🔬 My expertise includes:  
 - 📊 **Financial AI & Quantitative Research** – predictive modeling, portfolio optimization, and time-series forecasting.  
@@ -11,7 +11,7 @@ I focus on transforming **complex datasets into actionable insights** and buildi
 - 🖼 **Deep Learning & Computer Vision** – CNN-based solutions for medical imaging and classification.  
 - 📱 **AI + Flutter Development** – creating intelligent cross-platform mobile apps.  
 
-Currently, I work at **Quantum Bits**, where I develop **investment strategies and predictive models** that outperform traditional benchmarks.  
+## 📌 Current Role: Machine Learning Engineer at Quantum Bits, I design and optimize ML pipelines that combine economic, financial, and alternative datasets to forecast market trends, assess risks, and generate actionable insights for dynamic portfolio management.
 
 ## 🏆 Highlights & Achievements  
 - ✅ Ranked **Top 10** in my AI Department & College (Benha University, Comullative GPA 3.77).  
