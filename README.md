@@ -1,5 +1,4 @@
-<div align="center"> <img src="https://github.com/EhabAshraf32/EhabAshraf32/blob/main/350(2).jpg"> </div>
-<h1 align="center">Hi 👋, I'm Ehab</h1>
+<h1 align="center">Hi 👋, I'm Ehab Ashraf</h1>
 <h3 align="center">I'm AI & Machine Learning Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehabashraf32&label=Profile%20views&color=0e75b6&style=flat" alt="ehabashraf32" /> </p>
 <h1 align="left">🎯 About Me</h1>
@@ -15,10 +14,8 @@ I focus on transforming **complex datasets into actionable insights** and buildi
 Currently, I work at **Quantum Bits**, where I develop **investment strategies and predictive models** that outperform traditional benchmarks.  
 
 ## 🏆 Highlights & Achievements  
-- ✅ Built stock prediction models trained on **10+ years of financial/economic data**, outperforming the **S&P 500**.  
-- ✅ Ranked **Top 10** in my AI Department & College (Benha University, GPA 3.77).  
+- ✅ Ranked **Top 10** in my AI Department & College (Benha University, Comullative GPA 3.77).  
 - ✅ **4th place** in Hackathon for Emerging Technologies.  
-- ✅ Deployed ML workflows across **NLP, computer vision, and predictive analytics** domains.  
 
 - 👨‍💻 All of my projects are available at [https://github.com/EhabAshraf32](https://github.com/EhabAshraf32)
 
