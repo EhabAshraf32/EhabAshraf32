@@ -11,7 +11,8 @@ I focus on transforming complex datasets into actionable insights and building e
 - 🖼 **Deep Learning & Computer Vision** – CNN-based solutions for medical imaging and classification.  
 - 📱 **AI + Flutter Development** – creating intelligent cross-platform mobile apps.  
 
-## 📌 Current Role: Machine Learning Engineer at Quantum Bits, I design and optimize ML pipelines that combine economic, financial, and alternative datasets to forecast market trends, assess risks, and generate actionable insights for dynamic portfolio management.
+## 📌 Current Role
+- Machine Learning Engineer at Quantum Bits, I design and optimize ML pipelines that combine economic, financial, and alternative datasets to forecast market trends, assess risks, and generate actionable insights for dynamic portfolio management.
 
 ## 🏆 Highlights & Achievements  
 - ✅ Ranked **Top 10** in my AI Department & College (Benha University, Comullative GPA 3.77).  
