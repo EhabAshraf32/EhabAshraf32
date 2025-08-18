@@ -5,7 +5,8 @@
 <h1 align="left">🎯 About Me</h1>
 I’m Ehab Ashraf Mohamed, an AI & Machine Learning Engineer with over 3 years of hands-on experience designing, training, and deploying advanced ML models across diverse domains, including financial forecasting, NLP, computer vision, and intelligent mobile applications.I hold a B.Sc. in Computers and Artificial Intelligence from Benha University (Ranked Top 10 in my department & college).
 
-💡 My work is driven by a deep interest in applied AI research and its practical applications in solving high-impact problems. I specialize in:
+💡 My work is driven by a deep interest in applied AI research and its practical applications in solving high-impact problems.
+specialize in:
 
 Financial AI & Quantitative Research – building predictive models for stock price movements, portfolio optimization, and investment strategy evaluation that consistently outperform market benchmarks.
 
