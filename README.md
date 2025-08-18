@@ -3,34 +3,22 @@
 <h3 align="center">I'm AI & Machine Learning Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehabashraf32&label=Profile%20views&color=0e75b6&style=flat" alt="ehabashraf32" /> </p>
 <h1 align="left">🎯 About Me</h1>
-I’m Ehab Ashraf Mohamed, an AI & Machine Learning Engineer with over 3 years of hands-on experience designing, training, and deploying advanced ML models across diverse domains, including financial forecasting, NLP, computer vision, and intelligent mobile applications.I hold a B.Sc. in Computers and Artificial Intelligence from Benha University (Ranked Top 10 in my department & college).
+I’m an **AI & Machine Learning Engineer** with **3+ years of hands-on experience** designing, training, and deploying advanced ML models across **finance, NLP, and computer vision**.  
+I focus on transforming **complex datasets into actionable insights** and building **end-to-end intelligent systems** that make real-world impact. I hold a B.Sc. in Computers and Artificial Intelligence from Benha University (Ranked Top 10 in my department & college).
 
-💡 My work is driven by a deep interest in applied AI research and its practical applications in solving high-impact problems.
-specialize in:
+🔬 My expertise includes:  
+- 📊 **Financial AI & Quantitative Research** – predictive modeling, portfolio optimization, and time-series forecasting.  
+- 📝 **Natural Language Processing** – transformers, sentiment analysis, and machine translation.  
+- 🖼 **Deep Learning & Computer Vision** – CNN-based solutions for medical imaging and classification.  
+- 📱 **AI + Flutter Development** – creating intelligent cross-platform mobile apps.  
 
-Financial AI & Quantitative Research – building predictive models for stock price movements, portfolio optimization, and investment strategy evaluation that consistently outperform market benchmarks.
+Currently, I work at **Quantum Bits**, where I develop **investment strategies and predictive models** that outperform traditional benchmarks.  
 
-Natural Language Processing – leveraging transformer architectures and transfer learning for sentiment analysis, machine translation, and text classification at scale.
-
-Deep Learning & Computer Vision – deploying CNN-based medical imaging models for disease detection and image classification tasks.
-
-Intelligent Applications – integrating AI pipelines with Flutter-based apps, delivering cross-platform intelligent solutions.
-
-🚀 In my current role at Quantum Bits, I design and optimize ML pipelines that combine economic, financial, and alternative datasets to forecast market trends, assess risks, and generate actionable insights for dynamic portfolio management.
-
-🔬 Key Highlights:
-
-Built multi-model financial prediction systems trained on 10+ years of historical data, achieving superior performance vs. S&P 500.
-
-Applied regularization & advanced feature engineering to develop robust, generalizable models.
-
-Developed end-to-end ML workflows from preprocessing to deployment, ensuring scalability and reliability.
-
-Award-winning track record: ranked Top 10 in AI Department and 4th place in Hackathon for Emerging Technologies.
-
-⚡ Core Skills: Python, TensorFlow, scikit-learn, PyTorch, NLP, Transformers, CNNs, Predictive Analytics, Time-Series Forecasting, Data Engineering, Flutter Development
-
-🌍 Passionate About: Bridging the gap between academic AI research and real-world applications in finance, healthcare, and intelligent systems.
+## 🏆 Highlights & Achievements  
+- ✅ Built stock prediction models trained on **10+ years of financial/economic data**, outperforming the **S&P 500**.  
+- ✅ Ranked **Top 10** in my AI Department & College (Benha University, GPA 3.77).  
+- ✅ **4th place** in Hackathon for Emerging Technologies.  
+- ✅ Deployed ML workflows across **NLP, computer vision, and predictive analytics** domains.  
 
 - 👨‍💻 All of my projects are available at [https://github.com/EhabAshraf32](https://github.com/EhabAshraf32)
 
