@@ -1,21 +1,35 @@
 <div align="center"> <img src="https://github.com/EhabAshraf32/EhabAshraf32/blob/main/350(2).jpg"> </div>
 <h1 align="center">Hi 👋, I'm Ehab</h1>
-<h3 align="center">I'm Machine Learning Engineer | Flutter Developer</h3>
+<h3 align="center">I'm AI & Machine Learning Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehabashraf32&label=Profile%20views&color=0e75b6&style=flat" alt="ehabashraf32" /> </p>
 <h1 align="left">🎯 About Me</h1>
- HI! My name is Ehab i'm a machine learning engineer Additional to Flutter developer with a strong passion for AI and a focus on combining machine learning with NLP (Natural Language Processing), CNN (Convolutional Neural Networks), and deep learning models. You have studied AI at Benha University, which has provided you with a solid foundation in the field.
+I’m Ehab Ashraf Mohamed, an AI & Machine Learning Engineer with over 3 years of hands-on experience designing, training, and deploying advanced ML models across diverse domains, including financial forecasting, NLP, computer vision, and intelligent mobile applications.I hold a B.Sc. in Computers and Artificial Intelligence from Benha University (Ranked Top 10 in my department & college).
 
-Your expertise lies in applying transfer learning techniques to your projects. Transfer learning allows you to leverage pre-trained models and adapt them to new tasks, saving time and resources. This skill showcases your ability to efficiently develop machine-learning solutions by utilizing existing knowledge and models.
+💡 My work is driven by a deep interest in applied AI research and its practical applications in solving high-impact problems. I specialize in:
 
-in addition to self-learning in Flutter development. Flutter is a framework for creating cross-platform mobile applications, and your commitment to advancing your skills in this area demonstrates your enthusiasm for exploring diverse technologies.
+Financial AI & Quantitative Research – building predictive models for stock price movements, portfolio optimization, and investment strategy evaluation that consistently outperform market benchmarks.
 
-By combining AI expertise with Flutter development, I have capable of creating intelligent applications and projects. Some examples include sentiment analysis, image classification, and restaurant reviews analysis. These projects highlight my ability to apply machine-learning techniques to real-world scenarios and extract meaningful insights from data.
+Natural Language Processing – leveraging transformer architectures and transfer learning for sentiment analysis, machine translation, and text classification at scale.
 
-Your expertise lies in applying transfer learning techniques to your projects. Transfer learning allows you to leverage pre-trained models and adapt them to new tasks, saving time and resources. This skill showcases your ability to efficiently develop machine-learning solutions by utilizing existing knowledge and models.
+Deep Learning & Computer Vision – deploying CNN-based medical imaging models for disease detection and image classification tasks.
 
-in addition to self-learning in Flutter development. Flutter is a framework for creating cross-platform mobile applications, and your commitment to advancing your skills in this area demonstrates your enthusiasm for exploring diverse technologies.
+Intelligent Applications – integrating AI pipelines with Flutter-based apps, delivering cross-platform intelligent solutions.
 
-By combining AI expertise with Flutter development, I have capable of creating intelligent applications and projects. Some examples include sentiment analysis, image classification, and restaurant reviews analysis. These projects highlight my ability to apply machine-learning techniques to real-world scenarios and extract meaningful insights from data.
+🚀 In my current role at Quantum Bits, I design and optimize ML pipelines that combine economic, financial, and alternative datasets to forecast market trends, assess risks, and generate actionable insights for dynamic portfolio management.
+
+🔬 Key Highlights:
+
+Built multi-model financial prediction systems trained on 10+ years of historical data, achieving superior performance vs. S&P 500.
+
+Applied regularization & advanced feature engineering to develop robust, generalizable models.
+
+Developed end-to-end ML workflows from preprocessing to deployment, ensuring scalability and reliability.
+
+Award-winning track record: ranked Top 10 in AI Department and 4th place in Hackathon for Emerging Technologies.
+
+⚡ Core Skills: Python, TensorFlow, scikit-learn, PyTorch, NLP, Transformers, CNNs, Predictive Analytics, Time-Series Forecasting, Data Engineering, Flutter Development
+
+🌍 Passionate About: Bridging the gap between academic AI research and real-world applications in finance, healthcare, and intelligent systems.
 
 - 👨‍💻 All of my projects are available at [https://github.com/EhabAshraf32](https://github.com/EhabAshraf32)
 
