@@ -2,34 +2,40 @@
 <h3 align="center">I'm AI & Machine Learning Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehabashraf32&label=Profile%20views&color=0e75b6&style=flat" alt="ehabashraf32" /> </p>
 <h1 align="left">🎯 About Me</h1>
-I’m an AI & Machine Learning Engineer with 3+ years of hands-on experience designing, training, and deploying advanced ML models across finance, NLP, and computer vision.  
-I focus on transforming complex datasets into actionable insights and building end-to-end intelligent systems that make real-world impact. I hold a B.Sc. in Computers and Artificial Intelligence from Benha University (Ranked Top 10 in my department & college).
 
-🔬 My expertise includes:  
-- 📊 **Financial AI & Quantitative Research** – predictive modeling, portfolio optimization, and time-series forecasting.  
-- 📝 **Natural Language Processing** – transformers, sentiment analysis, and machine translation.  
-- 🖼 **Deep Learning & Computer Vision** – CNN-based solutions for medical imaging and classification.  
-- 📱 **AI + Flutter Development** – creating intelligent cross-platform mobile apps.  
+I'm an AI & Machine Learning Engineer with hands-on experience designing, training, and deploying ML models across finance, NLP, and computer vision. I hold a B.Sc. in Computers and Artificial Intelligence from Benha University (Top 10 in department & college, GPA 3.77).
 
+I recently expanded into **Generative AI**, building Retrieval-Augmented Generation (RAG) applications using LangChain, Hugging Face Transformers, and vector databases — and I'm currently deepening that further into agentic AI patterns with LangGraph.
 
+🔬 My expertise includes:
 
+- 🤖 **Generative AI & LLM Applications** — RAG pipelines, LangChain, Hugging Face Transformers, prompt engineering, vector databases (ChromaDB)
+- 📊 **Financial AI & Quantitative Research** — predictive modeling, portfolio optimization, and time-series forecasting
+- 📝 **Natural Language Processing** — transformers, sentiment analysis, and machine translation
+- 🖼 **Deep Learning & Computer Vision** — CNN-based solutions for medical imaging and classification
 
+## 🚀 Featured Project
 
+**[AI Knowledge Assistant](https://github.com/EhabAshraf32/ai-knowledge-assistant)** — an end-to-end RAG-powered chatbot that retrieves grounded, source-cited answers from a custom multi-domain knowledge base instead of hallucinating.
 
-
-
-
-
-
-
+`Python` · `LangChain` · `Hugging Face Transformers` · `ChromaDB` · `NLTK` · `Qwen2.5`
 
 ## 📌 Current Role
-- Machine Learning Engineer at Quantum Bits, I design and optimize ML pipelines that combine economic, financial, and alternative datasets to forecast market trends, assess risks, and generate actionable insights for dynamic portfolio management.
 
-## 🏆 Highlights & Achievements  
-- ✅ Ranked **Top 10** in my AI Department & College (Benha University, Comullative GPA 3.77).  
-- ✅ **4th place** in Hackathon for Emerging Technologies.  
+<!--
+  Heads up: this section needs a decision from you — the placeholder below
+  assumes you're currently between roles. Replace with your actual status.
+-->
+Most recently, Machine Learning Engineer & Data Analyst at Quantum Bits (Mar 2024 – Mar 2025), where I designed and optimized ML pipelines combining economic, financial, and alternative datasets to forecast market trends and support dynamic portfolio management.
 
+**Currently open to AI Engineer, Generative AI Engineer, and Machine Learning Engineer roles.**
+
+## 🏆 Highlights & Achievements
+
+- ✅ Ranked **Top 10** in my AI Department & College (Benha University, Cumulative GPA 3.77)
+- ✅ **4th place** in a national Hackathon for Emerging Technologies (Accessibility & Entertainment track)
+- ✅ AWS Academy Certified — Data Engineering
+- 👨‍💻 All of my projects are available at <https://github.com/EhabAshraf32>
 
 
 
