@@ -14,10 +14,10 @@ I recently expanded into **Generative AI**, building Retrieval-Augmented Generat
 - 📝 **Natural Language Processing** — transformers, sentiment analysis, and machine translation
 - 🖼 **Deep Learning & Computer Vision** — CNN-based solutions for medical imaging and classification
 - 
-## 🌐 Resume
+## 🌐 CV
 
 <p align="left">
-📄 <a href="https://drive.google.com/file/d/1A5AQOefgvEH7NF_EH81CehuGGOnwdXcj/view?usp=sharing">Resume</a> •
+📄 <a href="https://drive.google.com/file/d/1A5AQOefgvEH7NF_EH81CehuGGOnwdXcj/view?usp=sharing">CV</a> •
 </p>
 
 ## 🚀 Featured Projects
