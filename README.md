@@ -17,8 +17,12 @@ I recently expanded into **Generative AI**, building Retrieval-Augmented Generat
 ## 🚀 Featured Project
 
 **[AI Knowledge Assistant](https://github.com/EhabAshraf32/ai-knowledge-assistant)** — an end-to-end RAG-powered chatbot that retrieves grounded, source-cited answers from a custom multi-domain knowledge base instead of hallucinating.
-
 `Python` · `LangChain` · `Hugging Face Transformers` · `ChromaDB` · `NLTK` · `Qwen2.5`
+
+
+### 😊 Arabic Sentiment Swap
+**[Arabic Sentiment Swap](https://github.com/EhabAshraf32/Arabic-Sentiment-Swap-from-the-DialectSentEval-2026-Shared-Task)** — A generative NLP project that fine-tunes **AraBART** with **LoRA (PEFT)** to automatically reverse the sentiment of Arabic text while preserving its original meaning, dialect, and writing style. The model is evaluated using **Sentiment Accuracy, BERTScore, BLEU, ROUGE, and Perplexity** on the **MA'AKS Extended** dataset.
+`Python` · `Hugging Face Transformers` · `AraBART` · `LoRA (PEFT)` · `Arabic NLP` · `Seq2Seq` · `Pandas` · `Scikit-learn`
 
 ## 📌 Current Role
 
