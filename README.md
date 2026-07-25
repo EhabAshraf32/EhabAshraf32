@@ -9,12 +9,12 @@ I recently expanded into **Generative AI**, building Retrieval-Augmented Generat
 
 🔬 My expertise includes:
 
-- 🤖 **Generative AI & LLM Applications** — RAG pipelines, LangChain, Hugging Face Transformers, prompt engineering, vector databases (ChromaDB)
+- 🤖 **Generative AI & LLM Applications** — RAG pipelines, LangChain, Hugging Face Transformers, prompt engineering, Fine-tuning, vector databases (ChromaDB)
 - 📊 **Financial AI & Quantitative Research** — predictive modeling, portfolio optimization, and time-series forecasting
 - 📝 **Natural Language Processing** — transformers, sentiment analysis, and machine translation
 - 🖼 **Deep Learning & Computer Vision** — CNN-based solutions for medical imaging and classification
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 **[AI Knowledge Assistant](https://github.com/EhabAshraf32/ai-knowledge-assistant)** — an end-to-end RAG-powered chatbot that retrieves grounded, source-cited answers from a custom multi-domain knowledge base instead of hallucinating.
 `Python` · `LangChain` · `Hugging Face Transformers` · `ChromaDB` · `NLTK` · `Qwen2.5`
