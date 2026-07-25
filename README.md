@@ -20,13 +20,11 @@ I recently expanded into **Generative AI**, building Retrieval-Augmented Generat
 `Python` · `LangChain` · `Hugging Face Transformers` · `ChromaDB` · `NLTK` · `Qwen2.5`
 
 
-### 😊 Arabic Sentiment Swap
 **[Arabic Sentiment Swap](https://github.com/EhabAshraf32/Arabic-Sentiment-Swap-from-the-DialectSentEval-2026-Shared-Task)** — A generative NLP project that fine-tunes **AraBART** with **LoRA (PEFT)** to automatically reverse the sentiment of Arabic text while preserving its original meaning, dialect, and writing style. The model is evaluated using **Sentiment Accuracy, BERTScore, BLEU, ROUGE, and Perplexity** on the **MA'AKS Extended** dataset.
 `Python` · `Hugging Face Transformers` · `AraBART` · `LoRA (PEFT)` · `Arabic NLP` · `Seq2Seq` · `Pandas` · `Scikit-learn`
 
 
-### 📄 CV–Job Match Evaluation
-**[CV–Job Match Evaluation](https://github.com/EhabAshraf32/CV-Job-Match-Using-RAG-LLMs)** — An LLM-powered resume screening system that leverages **Retrieval-Augmented Generation (RAG)** to evaluate how well a candidate's CV matches a job description. The system retrieves the most relevant resume sections using **FAISS** and **LaBSE embeddings**, then generates an explainable hiring assessment with a compatibility score, strengths, missing skills, and improvement recommendations. The retrieval pipeline is evaluated using **Precision@K, Weighted Precision, Average Relevance Score, and nDCG**.
+**[CV–Job Match](https://github.com/EhabAshraf32/CV-Job-Match-Using-RAG-LLMs)** — An LLM-powered resume screening system that leverages **Retrieval-Augmented Generation (RAG)** to evaluate how well a candidate's CV matches a job description. The system retrieves the most relevant resume sections using **FAISS** and **LaBSE embeddings**, then generates an explainable hiring assessment with a compatibility score, strengths, missing skills, and improvement recommendations. The retrieval pipeline is evaluated using **Precision@K, Weighted Precision, Average Relevance Score, and nDCG**.
 `Python` · `LangChain` · `RAG` · `FAISS` · `LaBSE` · `Hugging Face Transformers` · `LLMs` · `Prompt Engineering` · `Evaluation Metrics` · `PyMuPDF` · `Pandas`
 
 ## 📌 Current Role
