@@ -13,6 +13,12 @@ I recently expanded into **Generative AI**, building Retrieval-Augmented Generat
 - 📊 **Financial AI & Quantitative Research** — predictive modeling, portfolio optimization, and time-series forecasting
 - 📝 **Natural Language Processing** — transformers, sentiment analysis, and machine translation
 - 🖼 **Deep Learning & Computer Vision** — CNN-based solutions for medical imaging and classification
+- 
+## 🌐 Resume
+
+<p align="left">
+📄 <a href="https://drive.google.com/file/d/1A5AQOefgvEH7NF_EH81CehuGGOnwdXcj/view?usp=sharing">Resume</a> •
+</p>
 
 ## 🚀 Featured Projects
 
