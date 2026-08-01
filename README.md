@@ -17,7 +17,7 @@ I recently expanded into **Generative AI**, building Retrieval-Augmented Generat
 ## 🌐 CV
 
 <p align="left">
-📄 <a href="https://drive.google.com/file/d/1A5AQOefgvEH7NF_EH81CehuGGOnwdXcj/view?usp=sharing">CV</a> •
+📄 <a href="https://drive.google.com/file/d/1FN97jCkxNHKYm2KuJ_hfRjOmPEU5smoZ/view?usp=sharing">CV</a> •
 </p>
 
 ## 🚀 Featured Projects
