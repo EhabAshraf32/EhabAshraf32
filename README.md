@@ -1,18 +1,23 @@
 <h1 align="center">Hi 👋, I'm Ehab Ashraf</h1>
-<h3 align="center">I'm AI & Machine Learning Engineer</h3>
+<h3 align="center">هI'm Generative AI & Machine Learning Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehabashraf32&label=Profile%20views&color=0e75b6&style=flat" alt="ehabashraf32" /> </p>
 <h1 align="left">🎯 About Me</h1>
 
-I'm an AI & Machine Learning Engineer with hands-on experience designing, training, and deploying ML models across finance, NLP, and computer vision. I hold a B.Sc. in Computers and Artificial Intelligence from Benha University (Top 10 in department & college, GPA 3.77).
+I'm a **Generative AI & Machine Learning Engineer** with hands-on experience designing, training, and deploying end-to-end AI applications. My expertise spans **Retrieval-Augmented Generation (RAG), LLM Fine-Tuning (LoRA/PEFT), FastAPI, LangChain, Hugging Face Transformers, Qdrant, and MongoDB**, alongside a solid foundation in Machine Learning, NLP, and Financial AI.
 
-I recently expanded into **Generative AI**, building Retrieval-Augmented Generation (RAG) applications using LangChain, Hugging Face Transformers, and vector databases — and I'm currently deepening that further into agentic AI patterns with LangGraph.
+I hold a **B.Sc. in Computers and Artificial Intelligence** from **Benha University**, graduating with a **GPA of 3.77/4.0**, ranked **9th** in the Artificial Intelligence Department.
+
+I'm passionate about building scalable, production-ready AI systems powered by open-source LLMs and modern backend architectures.
 
 🔬 My expertise includes:
 
-- 🤖 **Generative AI & LLM Applications** — RAG pipelines, LangChain, Hugging Face Transformers, prompt engineering, Fine-tuning, vector databases (ChromaDB)
-- 📊 **Financial AI & Quantitative Research** — predictive modeling, portfolio optimization, and time-series forecasting
-- 📝 **Natural Language Processing** — transformers, sentiment analysis, and machine translation
-- 🖼 **Deep Learning & Computer Vision** — CNN-based solutions for medical imaging and classification
+- 🤖 **Generative AI & LLMs** — RAG, LLM Fine-Tuning (LoRA/PEFT), LangChain, Hugging Face Transformers, Prompt Engineering, Context Engineering, Open-source LLMs
+
+- ⚙️ **AI Backend Development** — FastAPI, REST APIs, Async Programming, Pydantic, Motor, MongoDB, Qdrant, Docker, Factory Design Pattern
+
+- 📝 **Natural Language Processing** — Seq2Seq Models, Sentiment Analysis, Machine Translation, Text Generation
+
+- 📊 **Machine Learning & Financial AI** — Predictive Modeling, Portfolio Optimization, Time-Series Forecasting, Feature Engineering
 - 
 ## 🌐 CV
 
@@ -22,12 +27,12 @@ I recently expanded into **Generative AI**, building Retrieval-Augmented Generat
 
 ## 🚀 Featured Projects
 
-**[AI Knowledge Assistant](https://github.com/EhabAshraf32/ai-knowledge-assistant)** — an end-to-end RAG-powered chatbot that retrieves grounded, source-cited answers from a custom multi-domain knowledge base instead of hallucinating.
-`Python` · `LangChain` · `Hugging Face Transformers` · `ChromaDB` · `NLTK` · `Qwen2.5`
+**[End-to-End RAG Knowledge Assistant](https://github.com/EhabAshraf32/end-end-mini-rag-app)** — A production-ready **Retrieval-Augmented Generation (RAG)** system built with a modular **Factory Pattern** architecture. Supports document ingestion, semantic retrieval, conversation memory, and grounded, source-aware responses through scalable REST APIs. The system integrates **Qwen2.5**, **Qdrant**, and **MongoDB** to efficiently manage project files, document chunks, and vector search.
+`Python` · `LangChain` · `Hugging Face Transformers` · `Qdrant` · `NLTK` · `Qwen2.5` . `MongoDB` . `FastAPI` . `Docker`
 
 
-**[Arabic Sentiment Swap](https://github.com/EhabAshraf32/Arabic-Sentiment-Swap-from-the-DialectSentEval-2026-Shared-Task)** — A generative NLP project that fine-tunes **AraBART** with **LoRA (PEFT)** to automatically reverse the sentiment of Arabic text while preserving its original meaning, dialect, and writing style. The model is evaluated using **Sentiment Accuracy, BERTScore, BLEU, ROUGE, and Perplexity** on the **MA'AKS Extended** dataset.
-`Python` · `Hugging Face Transformers` · `AraBART` · `LoRA (PEFT)` · `Arabic NLP` · `Seq2Seq` · `Pandas` · `Scikit-learn`
+**[Arabic Sentiment Swap – DialectSentEval 2026 Shared Task](https://github.com/EhabAshraf32/Arabic-Sentiment-Swap-using-mBART-LoRA-DialectSentEval-2026)** — A generative NLP project developed for **Subtask 2: Arabic Sentiment Swap** in the **DialectSentEval 2026 Shared Task**. Fine-tuned **mBART** using **PEFT (LoRA)** to generate sentiment-swapped Arabic text while preserving semantic meaning, writing style, dialect, and emojis. Built an end-to-end training and inference pipeline and evaluated the model using **Sentiment Accuracy, BERTScore, BLEU, ROUGE, and Perplexity** on the **MA'AKS Extended** dataset.
+`Python` · `Hugging Face Transformers` · `mBART` · `LoRA (PEFT)` · `Arabic NLP` · `Seq2Seq` · `Pandas` · `Scikit-learn`
 
 
 **[CV–Job Match](https://github.com/EhabAshraf32/CV-Job-Match-Using-RAG-LLMs)** — An LLM-powered resume screening system that leverages **Retrieval-Augmented Generation (RAG)** to evaluate how well a candidate's CV matches a job description. The system retrieves the most relevant resume sections using **FAISS** and **LaBSE embeddings**, then generates an explainable hiring assessment with a compatibility score, strengths, missing skills, and improvement recommendations. The retrieval pipeline is evaluated using **Precision@K, Weighted Precision, Average Relevance Score, and nDCG**.
@@ -41,13 +46,13 @@ I recently expanded into **Generative AI**, building Retrieval-Augmented Generat
 -->
 Most recently, Machine Learning Engineer & Data Analyst at Quantum Bits (Mar 2024 – Mar 2025), where I designed and optimized ML pipelines combining economic, financial, and alternative datasets to forecast market trends and support dynamic portfolio management.
 
-**Currently open to AI Engineer, Generative AI Engineer, and Machine Learning Engineer roles.**
+**Currently open to Generative AI Engineer, LLM Engineer, AI Engineer, and Machine Learning Engineer opportunities.**
 
 ## 🏆 Highlights & Achievements
 
 - ✅ Ranked **Top 10** in my AI Department & College (Benha University, Cumulative GPA 3.77)
 - ✅ **4th place** in a national Hackathon for Emerging Technologies (Accessibility & Entertainment track)
-- ✅ AWS Academy Certified — Data Engineering
+- ✅ Completed the AI & Data Science – Microsoft Machine Learning Engineer Program (Digital Egypt Pioneers Initiative - DEPI)
 
 
 
