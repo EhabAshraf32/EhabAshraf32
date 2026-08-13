@@ -70,8 +70,38 @@ Most recently, Machine Learning Engineer & Data Analyst at Quantum Bits (Mar 202
 <a href="https://fb.com/100004250621194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100004250621194" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ehabelhossiny.a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ehab_ashraf32" height="30" width="40" /></a>
 </p>
-<h1 align="left">Languages and Tools:</h1>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<h1 align="left">🧰 Tech Stack</h1>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Generative AI & LLMs**
+
+![LLMs](https://img.shields.io/badge/LLMs-black?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square) ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-4B5563?style=flat-square) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-4B5563?style=flat-square) ![Context Engineering](https://img.shields.io/badge/Context_Engineering-4B5563?style=flat-square) ![LoRA/PEFT](https://img.shields.io/badge/LoRA%2FPEFT-4B5563?style=flat-square) ![Hugging Face Transformers](https://img.shields.io/badge/Hugging_Face_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![MCP](https://img.shields.io/badge/MCP-4B5563?style=flat-square) ![Tool Calling](https://img.shields.io/badge/Tool_Calling-4B5563?style=flat-square) ![HITL](https://img.shields.io/badge/Human_in_the_Loop-4B5563?style=flat-square) ![Agent Orchestration](https://img.shields.io/badge/Agent_Orchestration-4B5563?style=flat-square) ![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-4B5563?style=flat-square) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+**Deep Learning & NLP**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Neural Networks](https://img.shields.io/badge/Neural_Networks-4B5563?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-4B5563?style=flat-square) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-4B5563?style=flat-square) ![NLTK](https://img.shields.io/badge/NLTK-4B5563?style=flat-square)
+
+**Machine Learning**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-4B5563?style=flat-square) ![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-4B5563?style=flat-square) ![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter_Tuning-4B5563?style=flat-square) ![Time Series Analysis](https://img.shields.io/badge/Time_Series_Analysis-4B5563?style=flat-square) ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-4B5563?style=flat-square)
+
+**Vector Databases & Retrieval**
+
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-4B5563?style=flat-square) ![FAISS](https://img.shields.io/badge/FAISS-4B5563?style=flat-square) ![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Semantic Search](https://img.shields.io/badge/Semantic_Search-4B5563?style=flat-square) ![Vector Embeddings](https://img.shields.io/badge/Vector_Embeddings-4B5563?style=flat-square)
+
+**Backend Development**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-4B5563?style=flat-square) ![Async Programming](https://img.shields.io/badge/Async_Programming-4B5563?style=flat-square) ![Dependency Injection](https://img.shields.io/badge/Dependency_Injection-4B5563?style=flat-square) ![Factory Pattern](https://img.shields.io/badge/Factory_Pattern-4B5563?style=flat-square) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white) ![Motor](https://img.shields.io/badge/Motor-4B5563?style=flat-square) ![Uvicorn](https://img.shields.io/badge/Uvicorn-4B5563?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Data Engineering & Visualization**
+
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-4B5563?style=flat-square) ![Data Preprocessing](https://img.shields.io/badge/Data_Preprocessing-4B5563?style=flat-square) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-4B5563?style=flat-square) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-4B5563?style=flat-square)
+
+**Tools & Platforms**
+
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 
 <h1 align="left">✨ My GitHub Highlights</h1>
 
