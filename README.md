@@ -65,7 +65,7 @@ Most recently, Machine Learning Engineer & Data Analyst at Quantum Bits (Mar 202
 <h1 align="left">Connect with me:</h1>
 <p align="left">
 <a href="https://twitter.com/ehabashraf1111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ehabashraf1111" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ehab-ashraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ehab-ashraf" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ehab-ashraf-bba739176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ehab-ashraf" height="30" width="40" /></a>
 <a href="https://kaggle.com/ehabashraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ehabashraf" height="30" width="40" /></a>
 <a href="https://fb.com/100004250621194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100004250621194" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ehabelhossiny.a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ehab_ashraf32" height="30" width="40" /></a>
